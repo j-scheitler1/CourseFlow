@@ -9,4 +9,4 @@
 * Ian Halstead
 
 ## Purpose
-We are aiming to fix the complexity that is college classes
+We are aiming to fix the complexity that is college classes and graduation requirements
